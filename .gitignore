@@ -45,4 +45,3 @@ testem.log
 Thumbs.db
 
 /src/app
-/src/assets/opencv/opencv.js
